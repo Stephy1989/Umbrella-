@@ -1,0 +1,14 @@
+a{
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+}
+a:hover{
+    color: rgb(100, 115, 130);
+}
+.container{
+ display: flex;
+ justify-content: center;
+ flex-direction: row;
+}
+
